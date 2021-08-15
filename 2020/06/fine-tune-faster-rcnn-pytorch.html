@@ -1251,7 +1251,7 @@ h6:hover .anchor-link {
 <p>The beagle dataset we are using today is the same as the previous <a href="https://bryarshareef.github.io/2020/06/fine-tune-mask-rcnn.html">post</a>. This dataset is originally created and prepared for instance segmentation tasks by meself. But it has all the necessary information in the annotations file for creating an object detector. So, we will stick to this dataset. The only thing that matters is how you should parse the annotations which I will show you soon. Let's get started.</p>
 <h2 id="Understanding-the-Data">Understanding the Data<a class="anchor-link" href="#Understanding-the-Data">&#182;</a></h2><p>The dataset I prepared contains a total number of 100 beagle images which I scraped from Google Image. 75 of them are used for training and 25 of them are used for validation. The dataset was annotated using VGG Image Annotator (<a href="http://www.robots.ox.ac.uk/~vgg/software/via/">VIA</a>), and it labels all the images and exports it to a single JSON file.</p>
 <p>Because the dataset is originally created for instance segmentation task, the JSON file contains the whole mask information (polygon points) rather than bounding boxes as shown below. So need to parse the polygon points to obtain corresponding bounding boxes.</p>
-<p><img src="https://github.com/bryarshareef/gpage-images/blob/master/Computer%20vision/via_illu.png?raw=true" alt="bealge"></p>
+<p><img src="https://github.com/bryarshareef/gpage-images/blob/main/Computer%20vision/via_illu.png?raw=true" alt="bealge"></p>
 <p><strong>Load the Data</strong></p>
 <p>Use the following code to download the dataset.</p>
 

@@ -1379,7 +1379,7 @@ h6:hover .anchor-link {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Here is an example of CLAHE enhancement on an original image.</p>
-<p><img src="https://github.com/bryarshareef/gpage-images/blob/master/Computer%20vision/clahe_enhance.png?raw=true" alt="CLAHE enhance"></p>
+<p><img src="https://github.com/bryarshareef/gpage-images/blob/main/Computer%20vision/clahe_enhance.png?raw=true" alt="CLAHE enhance"></p>
 <p>From the above figure, we can find out another issue with the original image data. There is too much redundant information in the original images, i.e. the black space, the big porting of body part. We know that for Covid-19 diagnostics, we need to extract as much information as possible from the left and right lungs. So the Region of Interest in this case is the lung regions in the image. We need only the ROIs for Covid-19 detection. So we need properly crop the original image.</p>
 <h3 id="Cropping">Cropping<a class="anchor-link" href="#Cropping">&#182;</a></h3><p>Each CT scan in our dataset has its corresponding lungs mask. We can use the lungs mask to find out the ROI for cropping. So we can image for a possible complete Covid-19 diagonsis pipeline can be:</p>
 <ol>
@@ -1441,7 +1441,7 @@ h6:hover .anchor-link {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Following is an example image after CLAHE enhance, cropping and resizing.</p>
-<p><img src="https://github.com/bryarshareef/gpage-images/blob/master/Computer%20vision/clahe+crop.png?raw=true" alt="example" width="300"/></p>
+<p><img src="https://github.com/bryarshareef/gpage-images/blob/main/Computer%20vision/clahe+crop.png?raw=true" alt="example" width="300"/></p>
 <h2 id="Load-and-Prepare-Data">Load and Prepare Data<a class="anchor-link" href="#Load-and-Prepare-Data">&#182;</a></h2><p><strong>Define a function to read <code>.nii</code> files</strong></p>
 <p>The dataset contains CT scans with masks of 20 cases of Covid-19. There are 20 <code>.nii</code> files in each folder of the dataset. Each <code>.nii</code> file contains around 180 slices (images). Total slices are 3520. These have been sliced out by 20% in the front and by 20% in the last of each file since in general these didn't had any infection masks and some didn't had the lungs, removed as noise. Also, images had pixel values in a very large range. We need to normalize the pixel values.</p>
 
@@ -1664,7 +1664,7 @@ h6:hover .anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Build-Model">Build Model<a class="anchor-link" href="#Build-Model">&#182;</a></h2><p>We build the neural network using 3 Conv Blocks, each block has two 3x3 convolutional layers with 16, 32 , 64 filters. The structure of the model can be viewed from <a href="https://github.com/bryarshareef/gpage-images/blob/master/Computer%20vision/covid-classifier.png?raw=true">here</a>.</p>
+<h2 id="Build-Model">Build Model<a class="anchor-link" href="#Build-Model">&#182;</a></h2><p>We build the neural network using 3 Conv Blocks, each block has two 3x3 convolutional layers with 16, 32 , 64 filters. The structure of the model can be viewed from <a href="https://github.com/bryarshareef/gpage-images/blob/main/Computer%20vision/covid-classifier.png?raw=true">here</a>.</p>
 <p>We also set the <code>batch_size, epochs</code> and model checkpoint.</p>
 
 </div>

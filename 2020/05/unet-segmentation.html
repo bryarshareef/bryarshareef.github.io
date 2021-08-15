@@ -1247,7 +1247,7 @@ h6:hover .anchor-link {
 <h1 id="Foetal-Head-Segmentation-on-Ultrasound-Images-using-Residual-U-Net">Foetal Head Segmentation on Ultrasound Images using Residual U-Net<a class="anchor-link" href="#Foetal-Head-Segmentation-on-Ultrasound-Images-using-Residual-U-Net">&#182;</a></h1><p>Measuring foetal head circumference is one of the most accurate method to estimate gestational age after the first trimester (first three months of pregnancy). To automate this procedure, the most important step is segment the foetal head area in ultrasound images. Then we can fit an ellipse on the head area, and build a regressor using the head mask to estimate gestational age.</p>
 <p>In this post, we will use a U-Net architecture with residual blocks to make head segmentations. U-Net performs very well on medical images. And due to its relatively compact structure, its speed is much faster than Mask-RCNN.</p>
 <h2 id="U-Net-Structure">U-Net Structure<a class="anchor-link" href="#U-Net-Structure">&#182;</a></h2><p>The U-Net architecture is shown below.</p>
-<p><img src="https://github.com/bryarshareef/gpage-images/blob/master/Computer%20vision/u-net-architecture.png?raw=true" alt="image.png"></p>
+<p><img src="https://github.com/bryarshareef/gpage-images/blob/main/Computer%20vision/u-net-architecture.png?raw=true" alt="image.png"></p>
 <p>The provided model is basically a convolutional auto-encoder, but with a twist - it has skip connections from encoder layers to decoder layers that are on the same "level". In this post, we will use residual blocks to replace the simple convolutional blocks to increase the complexity of the model.</p>
 <p><strong>Note:</strong> the number of filters we use is different from the above picture. Find details in the model building section.</p>
 <p>We are using a custom dataset with around 1000 training images and training masks, and 300 test ultrasound images.</p>
@@ -1681,7 +1681,7 @@ We first define metrics for training our model. We use the dice coefficient and 
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The full Res-U-Net model with <code>start_neurons</code> set to 16 can be viewed in this <a href="https://github.com/bryarshareef/gpage-images/blob/master/Computer%20vision/Res-Unet.png?raw=true">link</a>.</p>
+<p>The full Res-U-Net model with <code>start_neurons</code> set to 16 can be viewed in this <a href="https://github.com/bryarshareef/gpage-images/blob/main/Computer%20vision/Res-Unet.png?raw=true">link</a>.</p>
 <h2 id="Training-on-the-entire-dataset">Training on the entire dataset<a class="anchor-link" href="#Training-on-the-entire-dataset">&#182;</a></h2><p><strong>Define the image_generator</strong></p>
 <p>We define a generator to read and preprocess images and masks. The preprocessing includes:</p>
 <ul>
