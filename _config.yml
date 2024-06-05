@@ -27,8 +27,8 @@ author:
   bio              : "Assistant Professor"
   #location         : "Earth"
   employer         : "University of Nevada, Las Vegas"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "https://www.unlv.edu/people/bryar-shareef"
+  email            : "bryar.shareef@unlv.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "bryar-shareef"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
