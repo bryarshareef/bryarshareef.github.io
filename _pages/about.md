@@ -1,28 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+<p style="text-align:justify">Welcome to my professional homepage! I am Dr. Bryar Shareef, an Assistant Professor in the Department of Computer Science at the University of Nevada, Las Vegas. Before joining UNLV, I received my Ph.D. in Computer Science from the University of Idaho under the supervision of Dr. Min Xian. Additionally, I hold a B.S. in Computer Science from Salahaddin University-Erbil, Iraq, and an M.S. in Computer Science from Western Michigan University, USA. </p>
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+<p style="text-align:justify">My research focuses on leveraging artificial intelligence and machine learning to enhance healthcare outcomes. Specifically, I develop advanced deep learning models for medical imaging, with a particular emphasis on breast cancer detection using ultrasound. My work includes the development of a hybrid multitask CNN-Transformer network, which has significantly improved the accuracy of tumor classification and segmentation. </p>
+
+<p style="text-align:justify">In recognition of my research contributions, I received the Graduate Fellowship from the University of Idaho in 2022. My work has been published in numerous prestigious journals and conferences, and I am actively involved in the academic community as a reviewer for various scientific journals and conferences.</p>

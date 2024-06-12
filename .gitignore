@@ -1,6 +1,12 @@
+# Ignore the contents of the _site directory
 _site/
-images/posts/*.tex
-images/posts/*.pdf
-images/posts/*.sty
-_source/*_cache
-.Rproj.user
+
+# Ignore the directory for local files during development
+local/
+
+# Ignore the Gemfile that is generated
+Gemfile.lock
+
+# Ingore files created by npm
+node_modules
+package-lock.json
