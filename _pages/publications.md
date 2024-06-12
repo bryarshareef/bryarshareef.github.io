@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Selected publications. For full publication list, please refer to<a href="{{site.author.googlescholar}}"> my Google Scholar profile</a>.</div>
+  <div class="wordwrap">Selected publications. For full publication list, please refer to <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -14,3 +14,4 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+<sup>*</sup> Equal authorship
