@@ -14,11 +14,11 @@ main:
   - title: "Students"
     url: "/students/"
      
-  - title: "Blog Posts"
+  - title: "Posts"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
