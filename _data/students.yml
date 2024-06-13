@@ -3,10 +3,14 @@
   role: Students Position
   research_area: Glavi amet ritnsi libero molestie ante ut fringilla purus eros quis glavid
   socials:
+    - link: https://facebook.com
+      icon: fab fa-facebook-f
+    - link: https://twitter.com
+      icon: fab fa-twitter
+    - link: https://instagram.com
+      icon: fab fa-instagram
     - link: https://linkedin.com
       icon: fab fa-linkedin-in
-    - link: https://#
-      icon: fa-solid fa-link
 
 - name: Students Name
   photo: /images/student1.png
