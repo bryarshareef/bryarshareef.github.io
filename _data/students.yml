@@ -1,0 +1,23 @@
+- name: Students Name
+  photo: images/student1.png
+  role: Students Position
+  research_area: Glavi amet ritnsi libero molestie ante ut fringilla purus eros quis glavid
+  socials:
+    - link: https://linkedin.com
+      icon: fab fa-linkedin-in
+
+- name: Students Name
+  photo: images/student1.png
+  role: Students Position
+  research_area: Glavi amet ritnsi libero molestie ante ut fringilla purus eros quis glavid
+  socials:
+    - link: https://linkedin.com
+      icon: fab fa-linkedin-in
+
+- name: Students Name
+  photo: images/student1.png
+  role: Students Position
+  research_area: Glavi amet ritnsi libero molestie ante ut fringilla purus eros quis glavid
+  socials:
+    - link: https://linkedin.com
+      icon: fab fa-linkedin-in
