@@ -4,7 +4,9 @@ title: Students
 permalink: /students/
 ---
 
-# Meet The Team
+<div class="page-title">
+  <h1>Meet The Team</h1>
+</div>
 
 <div class="students-container">
   {% for student in site.data.students %}

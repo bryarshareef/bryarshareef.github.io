@@ -40,50 +40,59 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/*
+ *    Modifications for student page
+*/
+.page-title {
+  text-align: center;
+  margin-top: 20px;
+}
+
 .students-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    margin-top: 30px;
-  }
-  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 30px auto;
+  max-width: 1200px; /* Adjust the width as necessary */
+  padding: 0 20px; /* Optional: adds some padding on the sides */
+}
+
+.student-profile {
+  text-align: center;
+  flex-basis: calc(33.333% - 40px);
+  margin-bottom: 40px;
+}
+
+.student-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.student-role {
+  color: green; /* Change to desired color */
+}
+
+.student-socials {
+  margin-top: 10px;
+}
+
+.student-socials a {
+  margin: 0 5px;
+  color: black; /* Change to desired color */
+  font-size: 20px;
+}
+
+@media (max-width: 768px) {
   .student-profile {
-    text-align: center;
-    flex-basis: calc(33.333% - 40px);
-    margin-bottom: 40px;
+    flex-basis: calc(50% - 20px);
   }
-  
-  .student-photo {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
+}
+
+@media (max-width: 480px) {
+  .student-profile {
+    flex-basis: 100%;
   }
-  
-  .student-role {
-    color: green; /* Change to desired color */
-  }
-  
-  .student-socials {
-    margin-top: 10px;
-  }
-  
-  .student-socials a {
-    margin: 0 5px;
-    color: black; /* Change to desired color */
-    font-size: 20px;
-  }
-  
-  @media (max-width: 768px) {
-    .student-profile {
-      flex-basis: calc(50% - 20px);
-    }
-  }
-  
-  @media (max-width: 480px) {
-    .student-profile {
-      flex-basis: 100%;
-    }
-  }
-  
+}
