@@ -5,6 +5,8 @@
   socials:
     - link: https://linkedin.com
       icon: fab fa-linkedin
+    - link: #
+      icon: fa-solid fa-link
 
 - name: Students Name
   photo: /images/student1.png
@@ -13,6 +15,8 @@
   socials:
     - link: https://linkedin.com
       icon: fab fa-linkedin
+    - link: #
+      icon: fa-solid fa-link
 
 - name: Students Name
   photo: /images/student1.png
@@ -21,3 +25,5 @@
   socials:
     - link: https://linkedin.com
       icon: fab fa-linkedin
+    - link: #
+      icon: fa-solid fa-link
