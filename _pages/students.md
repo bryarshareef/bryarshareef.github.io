@@ -26,6 +26,7 @@ permalink: /students/
     </div>
   </div>
   {% endfor %}
+  <h3>🚀🧑‍💻️⚡Currently recruiting❗❗❗</h3>
+  <p style="text-align:justify"> I am looking for motivated MS and PhD students with strong math and programming skills, particularly in large language models and AI-driven healthcare applications. If you are passionate about advancing medical imaging and diagnostics, please email me your CV and indicate your goals.</p>
 </div>
-<h3>🚀🧑‍💻️⚡Currently recruiting❗❗❗</h3>
-<p style="text-align:justify"> I am looking for motivated MS and PhD students with strong math and programming skills, particularly in large language models and AI-driven healthcare applications. If you are passionate about advancing medical imaging and diagnostics, please email me your CV and indicate your goals.</p>
+
