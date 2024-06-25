@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 <div class="page-title">
-  <h1>Welcome to LAAR Lab</h1>
+  <h1>Laboratory of Advanced AI Research (LAAR)</h1>
   <p style="text-align:justify"></p>
 </div>
 <div class="page-title">
