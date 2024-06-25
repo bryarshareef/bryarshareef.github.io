@@ -13,8 +13,8 @@ title: "Teaching"
     - [Syllabus]()
 - <b>Fall 2024</b>: 
     <br />CS 469 / 669 : Introduction to Digital Image Processing
-    - [Syllabus]()
-    <br />CS 302 : Data Structures 
+    - [Syllabus]()<br />
+CS 302 : Data Structures 
     - [Syllabus]()
 - <b>Fall 2023</b>: 
     <br />CS 302 : Data Structures
