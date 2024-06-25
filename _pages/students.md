@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /Research/
+permalink: /research/
 ---
 <div class="page-title">
   <h1>Welcome to LAAR Lab</h1>
