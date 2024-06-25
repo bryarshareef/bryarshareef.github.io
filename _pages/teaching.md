@@ -9,7 +9,7 @@ title: "Teaching"
     - CS 489 / 680 Computer Graphics
     [Syllabus]()
 - <b>Spring 2024</b>: 
-    <br />CS 469 / 669 : Introduction to Digital Image Processing
+    - CS 469 / 669 : Introduction to Digital Image Processing
     [Syllabus]()
 - <b>Fall 2024</b>: 
     - CS 469 / 669 : Introduction to Digital Image Processing
