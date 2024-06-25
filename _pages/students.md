@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Students
-permalink: /students/
+title: Research
+permalink: /Research/
 ---
-
+<div class="page-title">
+  <h1>Welcome to LAAR Lab</h1>
+  <p style="text-align:justify"></p>
+</div>
 <div class="page-title">
   <h1>Meet The Team</h1>
 </div>

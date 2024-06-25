@@ -1,7 +1,7 @@
-- name: Kevin Cong Nguyen
-  photo: /images/Kevin.jpg
-  role: Masters Student
-  research_area: Kevin was a MS student supervised by me. He graduated from UNLV in Spring 2024
+- name:  Rawa Mohammed
+  photo: /images/Rawa.jpg
+  role: Ph.D Student
+  research_area: Rawa is a Ph.D student joining Fall 2024, his primary research area is medical image analysis.
   socials:
     - link: https://facebook.com
       icon: fab fa-facebook-f
@@ -12,22 +12,30 @@
     - link: https://linkedin.com
       icon: fab fa-linkedin-in
 
-# - name: Students Name
-#   photo: /images/student1.png
-#   role: Students Position
-#   research_area: Glavi amet ritnsi libero molestie ante ut fringilla purus eros quis glavid
-#   socials:
-#     - link: https://linkedin.com
-#       icon: fab fa-linkedin-in
-#     - link: https://#
-#       icon: fa-solid fa-link
+- name: Alexander Nghia Pham
+  photo: /images/student1.png
+  role: B.S Student
+  research_area: Alexander is a B.S student joining Fall 2024. His primary research area is deep learning.
+  socials:
+    - link: https://facebook.com
+      icon: fab fa-facebook-f
+    - link: https://twitter.com
+      icon: fab fa-twitter
+    - link: https://instagram.com
+      icon: fab fa-instagram
+    - link: https://linkedin.com
+      icon: fab fa-linkedin-in
 
-# - name: Students Name
-#   photo: /images/student1.png
-#   role: Students Position
-#   research_area: Glavi amet ritnsi libero molestie ante ut fringilla purus eros quis glavid
-#   socials:
-#     - link: https://linkedin.com
-#       icon: fab fa-linkedin-in
-#     - link: https://#
-#       icon: fa-solid fa-link
+- name: Kevin Cong Nguyen
+  photo: /images/Kevin.jpg
+  role: Former Student (M.S.)
+  research_area: Kevin was a MS student supervised by me. He graduated from UNLV in Spring 2024
+  socials:
+    - link: https://facebook.com
+      icon: fab fa-facebook-f
+    - link: https://twitter.com
+      icon: fab fa-twitter
+    - link: https://instagram.com
+      icon: fab fa-instagram
+    - link: https://linkedin.com
+      icon: fab fa-linkedin-in
