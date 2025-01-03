@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download a PDF copy of my CV [here](/files/cv/CV_Bryar_Shareef.pdf).
+<!-- You can download a PDF copy of my CV [here](/files/cv/CV_Bryar_Shareef.pdf). -->
 
 Education
 ======
