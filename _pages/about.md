@@ -16,5 +16,3 @@ redirect_from:
 <h3>🚀🧑‍💻️⚡Currently Recruiting❗❗❗</h3>
 <p style="text-align:justify"> I am looking for motivated MS and PhD students with strong math and programming skills, particularly in large language models and AI-driven healthcare applications. If you are passionate about advancing medical imaging and diagnostics, please email me your CV and indicate your goals.</p>
 
-<h3>🚀🧑‍💻️⚡Currently Recruiting 2❗❗❗</h3>
-<p style="text-align:justify"> I am looking for motivated MS and PhD students with strong math and programming skills, particularly in large language models and AI-driven healthcare applications. If you are passionate about advancing medical imaging and diagnostics, please email me your CV and indicate your goals.</p>
