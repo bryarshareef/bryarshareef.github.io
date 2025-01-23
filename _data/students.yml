@@ -1,21 +1,7 @@
-- name: Raja Subhash Chowdary Mallina
+- name: Omar Mohammed
   photo: /images/students/profile.png
   role: Ph.D Student
-  research_area: Raja is a Ph.D student joining Spring 2025. His primary research area is deep learning.
-  socials:
-    - link: https://facebook.com
-      icon: fab fa-facebook-f
-    - link: https://twitter.com
-      icon: fab fa-twitter
-    - link: https://instagram.com
-      icon: fab fa-instagram
-    - link: https://linkedin.com
-      icon: fab fa-linkedin-in
-
-- name: Alexander Nghia Pham
-  photo: /images/students/profile.png
-  role: B.S Student
-  research_area: Alexander is a B.S student joining Fall 2024. His primary research area is deep learning.
+  research_area: Omar is a Ph.D student joined in Spring 2025 co-supervised by me. His primary research area is deep learning.
   socials:
     - link: https://facebook.com
       icon: fab fa-facebook-f
@@ -29,7 +15,7 @@
 - name:  Rawa Mohammed
   photo: /images/students/Rawa.jpg
   role: Ph.D Student
-  research_area: Rawa is a Ph.D student joining Fall 2024, his primary research area is medical image analysis.
+  research_area: Rawa is a Ph.D student joined in Fall 2024, his primary research area is medical image analysis.
   socials:
     - link: https://facebook.com
       icon: fab fa-facebook-f
@@ -40,6 +26,47 @@
     - link: https://linkedin.com
       icon: fab fa-linkedin-in
 
+- name: Raja Subhash Chowdary Mallina
+  photo: /images/students/profile.png
+  role: Ph.D Student
+  research_area: Raja is a Ph.D student joined in Spring 2025. His primary research area is deep learning.
+  socials:
+    - link: https://facebook.com
+      icon: fab fa-facebook-f
+    - link: https://twitter.com
+      icon: fab fa-twitter
+    - link: https://instagram.com
+      icon: fab fa-instagram
+    - link: https://linkedin.com
+      icon: fab fa-linkedin-in
+
+- name: Aviendha Andrus
+  photo: /images/students/profile.png
+  role: B.S Student
+  research_area: Aviendha is a B.S student joined in Spring 2025. His primary research area is natural language processing.
+  socials:
+    - link: https://facebook.com
+      icon: fab fa-facebook-f
+    - link: https://twitter.com
+      icon: fab fa-twitter
+    - link: https://instagram.com
+      icon: fab fa-instagram
+    - link: https://linkedin.com
+      icon: fab fa-linkedin-in
+
+- name: Alexander Nghia Pham
+  photo: /images/students/profile.png
+  role: B.S Student
+  research_area: Alexander is a B.S student joined in Fall 2024. His primary research area is deep learning.
+  socials:
+    - link: https://facebook.com
+      icon: fab fa-facebook-f
+    - link: https://twitter.com
+      icon: fab fa-twitter
+    - link: https://instagram.com
+      icon: fab fa-instagram
+    - link: https://linkedin.com
+      icon: fab fa-linkedin-in
 
 - name: Kevin Cong Nguyen
   photo: /images/students/Kevin.jpg
