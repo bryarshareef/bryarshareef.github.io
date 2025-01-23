@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-permalink: /Team/
+permalink: /team/
 ---
 <div class="page-title">
   <h1>Laboratory of Advanced AI Research (LAAR)</h1>
