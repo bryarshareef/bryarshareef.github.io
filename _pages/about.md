@@ -15,8 +15,8 @@ redirect_from:
 ### Medical Image Analysis
 <p style="text-align:justify">Our research in medical image analysis focuses on breast cancer detection using advanced deep learning models. We work on breast ultrasound, histopathology images, and ophthalmology imaging to enhance diagnostic accuracy and patient outcomes.</p>
 
-### Large Language Models (LLMs) and Latent Variable Models (LVMs)
-<p style="text-align:justify">We explore the development and application of large language models and latent variable models to improve understanding and inference in various domains, including healthcare and natural language processing.</p>
+### Large Language Models (LLMs) and Large Vision Models (LVM)
+<p style="text-align:justify">We explore the development and application of large language models and large vision models to improve understanding and inference in various domains, including healthcare and natural language processing.</p>
 
 ### Interpretable Models and Explainable Machine Learning
 <p style="text-align:justify">Our research aims to develop interpretable models and explainable machine learning techniques to foster trust and transparency in AI systems, particularly in critical applications like healthcare.</p>
