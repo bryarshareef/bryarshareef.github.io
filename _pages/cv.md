@@ -13,7 +13,6 @@ Education
 ======
 * Ph.D in Computer Science, University of Idaho, 2018-2023
 * M.S. in Computer Science, Western Michigan University, 2013-2015
-* B.S. in Computer Science, Salahaddin University-Erbil, 2005-2009
 
 Work experience
 ======

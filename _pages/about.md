@@ -1,32 +1,73 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align:justify">Welcome to my professional homepage! I am Dr. Bryar Shareef, an Assistant Professor in the Department of Computer Science at the <a href="https://www.unlv.edu/cs" rel="external nofollow noopener" target="_blank">University of Nevada, Las Vegas</a>. Before joining UNLV, I received my Ph.D. in Computer Science from the <a href="https://uidaho.edu" rel="external nofollow noopener" target="_blank">University of Idaho</a> under the supervision of <a href="https://webpages.uidaho.edu/mxian/" rel="external nofollow noopener" target="_blank">Dr. Min Xian</a>. During my Ph.D., my research was primarily focused on leveraging artificial intelligence and machine learning to enhance healthcare outcomes, particularly through the development of advanced deep learning models for medical imaging. I designed a hybrid multitask CNN-Transformer network, which significantly improved tumor classification and segmentation in breast cancer detection using ultrasound. I am actively involved in the academic community as a reviewer for various scientific journals and conferences.</p>
 
-<p style="text-align:justify">I have expanded my research to encompass a broader range of challenges in healthcare and artificial intelligence. My current work spans multiple areas:</p>
+<p style="text-align:justify">
+Welcome to my professional homepage. I am Dr. Bryar Shareef, an Assistant Professor in the Department of Computer Science at the
+<a href="https://www.unlv.edu/cs" rel="external nofollow noopener" target="_blank">University of Nevada, Las Vegas</a>.
+I received my Ph.D. in Computer Science from the
+<a href="https://uidaho.edu" rel="external nofollow noopener" target="_blank">University of Idaho</a>.
+My research develops practical and trustworthy AI methods for healthcare and forensics, with a strong emphasis on multimodal learning,
+medical imaging, and clinical decision support.
+</p>
+<p>
+As Director of the Advanced AI Research Lab (AAR Lab), I mentor Ph.D., M.S., and undergraduate students on research projects spanning vision–language models, multimodal learning, and trustworthy AI for real-world applications</p>
+<p style="text-align:justify">
+My work spans large vision models (vision–language models), multimodal deep learning, multitask learning, graph neural networks,
+and agentic AI. I am also interested in AR/VR/MR applications that enable interactive visualization, annotation, and human-in-the-loop
+workflows for medical and forensic analysis.
+</p>
 
 ## Research Areas
 
-### Medical Image Analysis
-<p style="text-align:justify">Our research in medical image analysis focuses on breast cancer detection using advanced deep learning models. We work on breast ultrasound, histopathology images, and ophthalmology imaging to enhance diagnostic accuracy and patient outcomes.</p>
+### Large Vision Models (Vision–Language Models) and Multimodal Deep Learning
+<p style="text-align:justify">
+I build multimodal models that integrate imaging, text, structured descriptors, and clinical context. Current directions include
+vision–language learning for segmentation/reporting, robust fusion under missing modalities, and grounding strategies to reduce
+hallucinations in clinical outputs.
+</p>
 
-### Large Language Models (LLMs) and Large Vision Models (LVMs)
-<p style="text-align:justify">We explore the development and application of large language models and large vision models to improve understanding and inference in various domains, including healthcare and natural language processing.</p>
+### Medical Image Analysis across Modalities
+<p style="text-align:justify">
+I develop deep learning methods for diagnosis, segmentation, and risk prediction using medical imaging modalities including
+ultrasound, mammography, and CBCT. Application areas include breast cancer, Alzheimer’s disease, brain cancer, histopathology,
+and image-guided clinical workflows.
+</p>
 
-### Interpretable Models and Explainable Machine Learning
-<p style="text-align:justify">Our research aims to develop interpretable models and explainable machine learning techniques to foster trust and transparency in AI systems, particularly in critical applications like healthcare.</p>
+### Multitask Learning and Graph Neural Networks
+<p style="text-align:justify">
+I design multitask architectures that jointly learn complementary clinical targets (e.g., detection + segmentation + reporting),
+and graph-based methods that model relationships among anatomical structures, findings, and longitudinal clinical patterns.
+</p>
 
-### Electronic Health Records (EHRs)
-<p style="text-align:justify">We focus on analyzing electronic health records to identify trends and patterns. Our work highlights in-hospital cardiac arrest analysis, aiming to improve early detection and intervention strategies.</p>
+### Electronic Health Records (EHRs) and Time-Series Prediction
+<p style="text-align:justify">
+I analyze electronic health records and clinical time series for early warning and decision support, including in-hospital cardiac arrest (IHCA)
+prediction. This includes handling missingness and imbalance, interpretable risk models, and evaluation under real-world constraints.
+</p>
 
-### Multi-Task Learning for Brain MRI
-<p style="text-align:justify">Our research involves leveraging multi-task learning approaches to improve the analysis and diagnosis of brain MRI scans, enabling better understanding and treatment of neurological conditions.</p>
+### Agentic AI and AR/VR/MR for Interactive Healthcare and Forensics
+<p style="text-align:justify">
+I am exploring agentic AI systems that can plan, retrieve evidence, and generate structured outputs under safety constraints.
+I am also interested in AR/VR/MR interfaces that support interactive review of imaging findings, guided annotation, and explainable
+decision support for both healthcare and forensic applications.
+</p>
 
-<h3>🚀🧑‍💻️⚡Currently Recruiting❗❗❗</h3>
-<p style="text-align:justify"> I am looking for motivated MS and PhD students with strong math and programming skills, particularly in large language models and AI-driven healthcare applications. If you are passionate about advancing medical imaging and diagnostics, please email me your CV and indicate your goals.</p>
+### Forensic Analysis Using AI
+<p style="text-align:justify">
+My forensic direction focuses on AI-driven analysis of craniofacial and dental imaging (including CBCT) for tasks such as morphometric
+measurement, population/sex/age estimation, and structured reporting. I am interested in multimodal and evidence-centered pipelines
+that combine imaging with contextual metadata.
+</p>
 
+<h3>🚀 Prospective Students</h3>
+<p style="text-align:justify">
+I am recruiting motivated M.S. and Ph.D. students with strong programming and mathematical foundations. If you are interested in
+vision–language models, multimodal learning, medical imaging, EHR modeling, graph neural networks, agentic AI, or AR/VR/MR applications,
+please email me at <b>bryar.shareef[at]unlv.edu</b> with your CV and a short description of your interests and research goals.
+</p>

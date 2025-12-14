@@ -43,7 +43,7 @@
 
 .page-title {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .students-container {
@@ -96,3 +96,43 @@
     flex-basis: 100%;
   }
 }
+/* Publications page spacing tweaks */
+.pub-intro {
+  margin-bottom: 0;
+}
+
+.pub-intro h2 {
+  margin-top: 0;
+  margin-bottom: 6px;
+}
+
+.pub-intro p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Reduce extra whitespace before/around archive items */
+.archive__item {
+  margin-top: 12px;
+}
+
+.archive__item-teaser {
+  margin-bottom: 0;
+}
+/* Publications: tighten heading spacing */
+.page__content h2 {
+  margin-top: 0.5em;
+  margin-bottom: 0.4em;
+}
+
+.pub-intro {
+  margin-top: 0;
+}
+/* Team page lab description */
+.lab-blurb {
+  max-width: 1000px;
+  margin: 10px auto 0 auto;   /* centers the paragraph */
+  text-align: justify;
+  line-height: 1.6;
+}
+

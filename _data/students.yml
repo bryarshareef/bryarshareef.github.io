@@ -1,83 +1,69 @@
-- name: Omar Mohammed
-  photo: /images/students/profile.png
-  role: Ph.D Student
-  research_area: Omar is a Ph.D student joined in Spring 2025 co-supervised by me. His primary research area is deep learning.
-  socials:
-    - link: https://facebook.com
-      icon: fab fa-facebook-f
-    - link: https://twitter.com
-      icon: fab fa-twitter
-    - link: https://instagram.com
-      icon: fab fa-instagram
-    - link: https://linkedin.com
-      icon: fab fa-linkedin-in
+- name: Graham Haley
+  group: Graduate
+  photo: /images/students/mprofile.png
+  role: Ph.D. Student
+  research_area: Graham is a Ph.D. student who joined in Fall 2025 and is supervised by me. Primary interests include deep learning.
+  socials: []
 
-- name:  Rawa Mohammed
+- name: Rawa Mohammed
+  group: Graduate
   photo: /images/students/Rawa.jpg
-  role: Ph.D Student
-  research_area: Rawa is a Ph.D student joined in Fall 2024, his primary research area is medical image analysis.
-  socials:
-    - link: https://facebook.com
-      icon: fab fa-facebook-f
-    - link: https://twitter.com
-      icon: fab fa-twitter
-    - link: https://instagram.com
-      icon: fab fa-instagram
-    - link: https://linkedin.com
-      icon: fab fa-linkedin-in
+  role: Ph.D. Student
+  research_area: Rawa is a Ph.D. student who joined in Fall 2024. Primary interests include medical image analysis.
+  socials: []
 
 - name: Raja Subhash Chowdary Mallina
-  photo: /images/students/profile.png
-  role: Ph.D Student
-  research_area: Raja is a Ph.D student joined in Spring 2025. His primary research area is deep learning.
-  socials:
-    - link: https://facebook.com
-      icon: fab fa-facebook-f
-    - link: https://twitter.com
-      icon: fab fa-twitter
-    - link: https://instagram.com
-      icon: fab fa-instagram
-    - link: https://linkedin.com
-      icon: fab fa-linkedin-in
+  group: Graduate
+  photo: /images/students/mprofile.png
+  role: M.S. Student
+  research_area: Raja is an M.S. student who joined in Spring 2025. Primary interests include deep learning.
+  socials: []
 
-- name: Aviendha Andrus
-  photo: /images/students/Aviendha.png
-  role: B.S Student
-  research_area: Aviendha is a B.S student joined in Spring 2025. His primary research area is natural language processing.
-  socials:
-    - link: https://facebook.com
-      icon: fab fa-facebook-f
-    - link: https://twitter.com
-      icon: fab fa-twitter
-    - link: https://instagram.com
-      icon: fab fa-instagram
-    - link: https://linkedin.com
-      icon: fab fa-linkedin-in
+- name: Adithi Reddy Ravula
+  group: Graduate
+  photo: /images/students/fprofile.png
+  role: M.S. Student
+  research_area: Adithi is an M.S. student who joined in Fall 2025. Primary interests include deep learning.
+  socials: []
+
+- name: Uyen Tran
+  group: Graduate
+  photo: /images/students/fprofile.png
+  role: M.S. Student
+  research_area: Uyen is an M.S. student who joined in Fall 2025. Primary interests include deep learning.
+  socials: []
 
 - name: Alexander Nghia Pham
-  photo: /images/students/profile.png
-  role: B.S Student
-  research_area: Alexander is a B.S student joined in Fall 2024. His primary research area is deep learning.
-  socials:
-    - link: https://facebook.com
-      icon: fab fa-facebook-f
-    - link: https://twitter.com
-      icon: fab fa-twitter
-    - link: https://instagram.com
-      icon: fab fa-instagram
-    - link: https://linkedin.com
-      icon: fab fa-linkedin-in
+  group: Former
+  photo: /images/students/mprofile.png
+  role: B.S. Student (Former)
+  research_area: Alexander was a B.S. student who joined in Fall 2024. Primary interests included deep learning.
+  socials: []
 
 - name: Kevin Cong Nguyen
+  group: Former
   photo: /images/students/Kevin.jpg
-  role: Former Student (M.S.)
-  research_area: Kevin was a MS student supervised by me. He graduated from UNLV in Spring 2024
-  socials:
-    - link: https://facebook.com
-      icon: fab fa-facebook-f
-    - link: https://twitter.com
-      icon: fab fa-twitter
-    - link: https://instagram.com
-      icon: fab fa-instagram
-    - link: https://linkedin.com
-      icon: fab fa-linkedin-in
+  role: Former M.S. Student
+  research_area: Kevin was an M.S. student supervised by me and graduated from UNLV in Spring 2024.
+  socials: []
+
+- name: Aviendha Andrus
+  group: Former
+  photo: /images/students/Aviendha.png
+  role: B.S. Student (Former)
+  research_area: Aviendha was a B.S. student who joined in Spring 2025. Primary interests included natural language processing.
+  socials: []
+
+- name: MINJEONG CHO
+  group: Former Internship
+  photo: /images/students/fprofile.png
+  role: Visiting Intern (South Korea)
+  research_area: MINJEONG joined in Fall 2025. Research interests include data analytics.
+  socials: []
+
+- name: Anne-Laure Lamouche
+  group: Former Internship
+  photo: /images/students/fprofile.png
+  role: Visiting Intern (France)
+  research_area: Anne-Laure joined in Fall 2025. Research interests include data analytics.
+  socials: []
