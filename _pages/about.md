@@ -17,7 +17,7 @@ medical imaging, and clinical decision support.
 </p>
 
 <p style="text-align:justify">
-Dr. Shareef directs the <b>Advanced AI Research Lab (AAR Lab)</b>, which supports Ph.D., M.S., and undergraduate researchers.
+Dr. Shareef directs the <b>Advanced AI Research Lab (AAR Lab)</b> in the Howard R. Hughes College of Engineering at UNLV, which supports Ph.D., M.S., and undergraduate researchers.
 The lab focuses on large vision (vision–language) models, multimodal deep learning, multitask learning, graph neural networks,
 agentic AI, and human-in-the-loop systems for real-world deployment.
 </p>
