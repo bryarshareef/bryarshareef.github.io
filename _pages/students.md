@@ -6,12 +6,19 @@ permalink: /team/
 
 <div class="page-title">
   <h1>Advanced AI Research Lab (AAR Lab)</h1>
+
   <p class="lab-blurb">
     AAR Lab develops trustworthy and scalable AI for healthcare and forensics, with a focus on large vision (vision–language) models,
-    multimodal deep learning, multitask learning, graph neural networks, and agentic AI. We work with medical imaging (ultrasound,
+    multimodal deep learning, multitask learning, graph neural networks, and agentic AI. Work spans medical imaging (ultrasound,
     mammography, CBCT), EHR time-series, and interactive AR/VR/MR tools to support decision-making and structured reporting.
   </p>
+
+  <p class="lab-blurb">
+    The lab includes Ph.D., M.S., and undergraduate researchers working on medical imaging, EHR modeling, optimization, and
+    human-in-the-loop systems.
+  </p>
 </div>
+
 
 <div class="page-title">
   <h1>Meet the Team</h1>

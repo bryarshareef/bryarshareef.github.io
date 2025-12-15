@@ -2,68 +2,75 @@
   group: Graduate
   photo: /images/students/mprofile.png
   role: Ph.D. Student
-  research_area: Graham is a Ph.D. student who joined in Fall 2025 and is supervised by me. Primary interests include deep learning.
+  research_area: Ph.D. student who joined in Fall 2025. Primary interests include deep learning.
   socials: []
 
 - name: Rawa Mohammed
   group: Graduate
   photo: /images/students/Rawa.jpg
   role: Ph.D. Student
-  research_area: Rawa is a Ph.D. student who joined in Fall 2024. Primary interests include medical image analysis.
+  research_area: Ph.D. student who joined in Fall 2024. Primary interests include medical image analysis.
   socials: []
 
 - name: Raja Subhash Chowdary Mallina
   group: Graduate
   photo: /images/students/mprofile.png
   role: M.S. Student
-  research_area: Raja is an M.S. student who joined in Spring 2025. Primary interests include deep learning.
+  research_area: M.S. student who joined in Spring 2025. Primary interests include deep learning.
   socials: []
 
 - name: Adithi Reddy Ravula
   group: Graduate
   photo: /images/students/fprofile.png
   role: M.S. Student
-  research_area: Adithi is an M.S. student who joined in Fall 2025. Primary interests include deep learning.
+  research_area: M.S. student who joined in Fall 2025. Primary interests include deep learning.
   socials: []
 
 - name: Uyen Tran
   group: Graduate
   photo: /images/students/fprofile.png
   role: M.S. Student
-  research_area: Uyen is an M.S. student who joined in Fall 2025. Primary interests include deep learning.
+  research_area: M.S. student who joined in Fall 2025. Primary interests include deep learning.
+  socials: []
+
+- name: Vaughn Mcgill-Adami
+  group: Undergraduate
+  photo: /images/students/mprofile.png
+  role: Undergraduate Researcher
+  research_area: Undergraduate researcher focusing on optimization for efficient training and inference in machine learning.
   socials: []
 
 - name: Alexander Nghia Pham
   group: Former
   photo: /images/students/mprofile.png
   role: B.S. Student (Former)
-  research_area: Alexander was a B.S. student who joined in Fall 2024. Primary interests included deep learning.
+  research_area: Former B.S. student who joined in Fall 2024. Primary interests included deep learning.
   socials: []
 
 - name: Kevin Cong Nguyen
   group: Former
   photo: /images/students/Kevin.jpg
   role: Former M.S. Student
-  research_area: Kevin was an M.S. student supervised by me and graduated from UNLV in Spring 2024.
+  research_area: Former M.S. student who graduated from UNLV in Spring 2024.
   socials: []
 
 - name: Aviendha Andrus
   group: Former
   photo: /images/students/Aviendha.png
   role: B.S. Student (Former)
-  research_area: Aviendha was a B.S. student who joined in Spring 2025. Primary interests included natural language processing.
+  research_area: Former B.S. student who joined in Spring 2025. Primary interests included natural language processing.
   socials: []
 
 - name: MINJEONG CHO
   group: Former Internship
   photo: /images/students/fprofile.png
   role: Visiting Intern (South Korea)
-  research_area: MINJEONG joined in Fall 2025. Research interests include data analytics.
+  research_area: Visiting intern who joined in Fall 2025. Research interests include data analytics.
   socials: []
 
 - name: Anne-Laure Lamouche
   group: Former Internship
   photo: /images/students/fprofile.png
   role: Visiting Intern (France)
-  research_area: Anne-Laure joined in Fall 2025. Research interests include data analytics.
+  research_area: Visiting intern who joined in Fall 2025. Research interests include data analytics.
   socials: []
