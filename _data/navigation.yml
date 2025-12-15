@@ -21,8 +21,7 @@ main:
   #   url: /year-archive/
     
   - title: "Applications"
-  
- #   url: /cv/
+    url: /applications/
     
   # - title: "Guide"
   #   url: /markdown/

@@ -136,3 +136,55 @@
   line-height: 1.6;
 }
 
+/* Applications page */
+.app-blurb {
+  max-width: 1000px;
+  margin: 10px auto 0 auto;
+  text-align: justify;
+  line-height: 1.6;
+}
+
+.app-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 18px;
+  margin-top: 18px;
+}
+
+.app-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 14px;
+}
+
+.app-desc {
+  margin-top: 6px;
+}
+
+.app-status {
+  margin: 8px 0;
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+
+.app-view {
+  position: relative;
+  margin-top: 10px;
+}
+
+.app-view img {
+  max-width: 100%;
+  height: auto;
+  display: none;
+}
+
+.app-view canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+}
+
+.app-output {
+  margin-top: 10px;
+}
