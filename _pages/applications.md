@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Applications
+title: Misc
 permalink: /applications/
 ---
 
 <div class="page-title">
-  <h1>Applications</h1>
+  <h1>Misc Page</h1>
   <p class="app-blurb">
-    Interactive browser-based demos (runs locally in your browser; no images are uploaded to a server).
+
   </p>
 </div>
 
