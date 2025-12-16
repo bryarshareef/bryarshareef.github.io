@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team
-permalink: /team/
+title: Lab
+permalink: /lab/
 ---
 
 <div class="page-title">
