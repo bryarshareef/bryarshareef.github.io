@@ -1,27 +1,16 @@
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    {% if site.atom_feed.hide != true %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endif %}
-  </ul>
+<div class="site-footer__inner">
+  <div>
+    <a class="site-footer__name" href="{{ base_path }}/">Bryar Shareef</a>
+    <p>Assistant Professor of Computer Science · University of Nevada, Las Vegas</p>
+  </div>
+  <nav class="site-footer__links" aria-label="Footer navigation">
+    <a href="{{ base_path }}/research/">Research</a>
+    <a href="{{ base_path }}/publications/">Publications</a>
+    <a href="{{ base_path }}/lab/">AAR Lab</a>
+    <a href="mailto:{{ site.author.email }}">Email</a>
+    <a href="{{ site.author.googlescholar }}" rel="external">Google Scholar</a>
+  </nav>
 </div>
-{% endif %}
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. </div>
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=xyLp-ebbGEJr0IBomKMDd9lP-amuVLU9Kr2IzexRQAg&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
-
-
-
-
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} Bryar Shareef. Built for clarity, accessibility, and discovery.</div>
