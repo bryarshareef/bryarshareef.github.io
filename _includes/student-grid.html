@@ -1,0 +1,25 @@
+{% assign students = site.data.students | where: "group", include.group %}
+{% if students and students.size > 0 %}
+<section class="team-section" aria-labelledby="team-{{ include.group | slugify }}">
+  <h2 id="team-{{ include.group | slugify }}">{{ include.title }}</h2>
+  <div class="students-container">
+    {% for student in students %}
+    <article class="student-profile">
+      <img src="{{ student.photo }}" alt="Portrait of {{ student.name }}" class="student-photo student-photo--{{ student.name | slugify }}" loading="lazy" width="420" height="315">
+      <h3>{{ student.name }}</h3>
+      <div class="student-role">{{ student.role }}</div>
+      <p>{{ student.research_area }}</p>
+      {% if student.socials and student.socials.size > 0 %}
+      <div class="student-socials" aria-label="Profiles for {{ student.name }}">
+        {% for social in student.socials %}
+          {% if social.link and social.link != "" and social.link != "#" %}
+            <a href="{{ social.link }}" rel="external" aria-label="{{ student.name }} profile"><i class="{{ social.icon }}" aria-hidden="true"></i></a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

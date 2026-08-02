@@ -15,8 +15,15 @@
 - name: Raja Subhash Chowdary Mallina
   group: Graduate
   photo: /images/students/raja.jpeg
-  role: M.S. Student
-  research_area: M.S. student who joined in Spring 2025. Primary interests include deep learning.
+  role: Ph.D. Student
+  research_area: Ph.D. student working on multimodal learning and medical image analysis. Raja completed his M.S. at UNLV before continuing in the Ph.D. program.
+  socials: []
+
+- name: Richard Van
+  group: Graduate
+  photo: /images/students/mprofile.png
+  role: Ph.D. Student
+  research_area: Ph.D. student in the Advanced AI Research Lab.
   socials: []
 
 - name: Adithi Reddy Ravula
@@ -30,7 +37,7 @@
   group: Graduate
   photo: /images/students/Uyen.jpeg
   role: M.S. Student
-  research_area: M.S. student who joined in Fall 2025. Primary interests include bioinformatics, drug discover, and GNN.
+  research_area: M.S. student who joined in Fall 2025. Primary interests include bioinformatics, drug discovery, and graph neural networks.
   socials: []
 
 - name: Vaughn Mcgill-Adami
@@ -61,7 +68,21 @@
   research_area: Former B.S. student who joined in Spring 2025. Primary interests included natural language processing.
   socials: []
 
-- name: MINJEONG CHO
+- name: Raja Subhash Chowdary Mallina
+  group: Former
+  photo: /images/students/raja.jpeg
+  role: M.S. Graduate
+  research_area: Completed his M.S. at UNLV and continued in AAR Lab as a Ph.D. student.
+  socials: []
+
+- name: Adam Bunnel
+  group: Former
+  photo: /images/students/mprofile.png
+  role: M.S. Graduate
+  research_area: Former M.S. student who graduated from UNLV.
+  socials: []
+
+- name: Minjeong Cho
   group: Former Internship
   photo: /images/students/cho.JPG
   role: Visiting Intern (South Korea)

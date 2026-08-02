@@ -11,9 +11,10 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="{{ page.classes | join: ' ' }}">
 
     {% include browser-upgrade.html %}
+    <a class="skip-link" href="#main">Skip to main content</a>
     {% include masthead.html %}
 
     {{ content }}
